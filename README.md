@@ -1,4 +1,4 @@
-# x-frame-options
+# x-frame-options with cache
 x-frame-options bypass
 ## Installation
 ```text
